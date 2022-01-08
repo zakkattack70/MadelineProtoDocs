@@ -41835,7 +41835,7 @@
   "3815": {
     "doc": "Creating a client",
     "title": "Creating a client",
-    "content": "# Creating a client To store information about an account session and avoid re-logging in, serialization must be done. To create the session and set the serialization destination file, do the following: ```php $MadelineProto = new \\danog\\MadelineProto\\API('session.madeline', $settings); // The session will be serialized to session.madeline ``` Do the same to load a serialized session: ```php $MadelineProto = new \\danog\\MadelineProto\\API('session.madeline', $settings); // The session will be loaded from session.madeline ``` To change the session file after starting MadelineProto, do the following: ```php $MadelineProto-\u003esession = 'newsession.madeline'; ``` Next section ",
+    "content": "# Creating a client To store information about an account session and avoid re-logging in, serialization must be done. To create the session and set the serialization destination file, do the following: ```php $MadelineProto = new \\danog\\MadelineProto\\API('session.madeline', $settings); // The session will be serialized to session.madeline ``` Do the same to load a serialized session: ```php $MadelineProto = new \\danog\\MadelineProto\\API('session.madeline', $settings); // The session will be loaded from session.madeline ``` Next section  ",
     "url": "https://docs.madelineproto.xyz/docs/CREATING_A_CLIENT.html",
     "relUrl": "/docs/CREATING_A_CLIENT.html"
   }
