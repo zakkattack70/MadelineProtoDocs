@@ -1433,6 +1433,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.receivedCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.requestCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.saveCallDebug.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.saveCallLog.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.saveDefaultGroupCallJoinAs.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.sendSignalingData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.setCallRating.html</loc></url>
