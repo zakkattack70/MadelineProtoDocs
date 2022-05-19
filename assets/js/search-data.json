@@ -32724,7 +32724,7 @@
   "2977": {
     "doc": "",
     "title": "Type: !X",
-    "content": " Back to constructor index . Represents a TL serialized payload. Typicall yyou would want to provide a simple constructor or a method array here (method name under _ as with constructors).  ",
+    "content": " Back to constructor index . Represents a TL serialized payload. Typically you would want to provide a simple constructor or a method array here (method name under _ as with constructors).  ",
     "url": "https://docs.madelineproto.xyz/API_docs/types/!X.html#type-x",
     "relUrl": "/API_docs/types/!X.html#type-x"
   }
