@@ -28,6 +28,11 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuBots.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuBotsBot.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuBotsNotModified.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuPeerTypeBotPM.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuPeerTypeBroadcast.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuPeerTypeChat.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuPeerTypePM.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/attachMenuPeerTypeSameBotPM.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/auth.authorization.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/auth.authorizationSignUpRequired.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/auth.codeTypeCall.html</loc></url>
@@ -155,6 +160,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatInviteExported.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatInviteImporter.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatInvitePeek.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatInvitePublicJoinRequests.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatOnlines.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatParticipant.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/chatParticipantAdmin.html</loc></url>
@@ -216,6 +222,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/decryptedMessage_8.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialog.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialogFilter.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialogFilterDefault.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialogFilterSuggested.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialogFolder.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/dialogPeer.html</loc></url>
@@ -278,6 +285,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.noAppUpdate.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.passportConfig.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.passportConfigNotModified.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.premiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.promoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.promoDataEmpty.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.recentMeUrls.html</loc></url>
@@ -341,6 +349,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputGeoPointEmpty.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputGroupCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputGroupCallStream.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputInvoiceMessage.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputInvoiceSlug.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputKeyboardButtonUrlAuth.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputKeyboardButtonUserProfile.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/inputMediaContact.html</loc></url>
@@ -625,6 +635,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.stickerSetNotModified.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.stickers.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.stickersNotModified.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.transcribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.translateNoResult.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.translateResultText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messages.votesList.html</loc></url>
@@ -682,6 +693,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/paymentRequestedInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/paymentSavedCredentialsCard.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/payments.bankCardData.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/payments.exportedInvoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/payments.paymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/payments.paymentReceipt.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/payments.paymentResult.html</loc></url>
@@ -981,6 +993,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStickerSets.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateStickerSetsOrder.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateTheme.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateTranscribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateUserName.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateUserPhone.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateUserPhoto.html</loc></url>
@@ -1173,6 +1186,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.reportSpam.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setDiscussionGroup.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.setStickers.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleJoinRequest.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleJoinToSend.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.togglePreHistoryHidden.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleSignatures.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleSlowMode.html</loc></url>
@@ -1214,6 +1229,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getInviteText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getNearestDc.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPassportConfig.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPremiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPromoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getRecentMeUrls.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getSupport.html</loc></url>
@@ -1337,6 +1353,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.markDialogUnread.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.migrateChat.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.prolongWebView.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.rateTranscribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.readDiscussion.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.readEncryptedHistory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.readFeaturedStickers.html</loc></url>
@@ -1394,6 +1411,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.toggleDialogPin.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.toggleNoForwards.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.toggleStickerSets.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.transcribeAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.translateText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.uninstallStickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.unpinAllMessages.html</loc></url>
@@ -1403,11 +1421,17 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.uploadEncryptedFile.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.uploadImportedMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.uploadMedia.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.assignAppStoreTransaction.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.assignPlayMarketTransaction.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.canPurchasePremium.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.clearSavedInfo.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.exportInvoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getBankCardData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getPaymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getPaymentReceipt.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getSavedInfo.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.requestRecurringPayment.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.restorePlayMarketReceipt.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.sendPaymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.validateRequestedInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.acceptCall.html</loc></url>
@@ -1478,6 +1502,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/AttachMenuBotIconColor.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/AttachMenuBots.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/AttachMenuBotsBot.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/AttachMenuPeerType.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/Authorization.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/AutoDownloadSettings.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/AvailableReaction.html</loc></url>
@@ -1572,6 +1597,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputGame.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputGeoPoint.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputGroupCall.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/InputInvoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputMessage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/InputNotifyPeer.html</loc></url>
@@ -1756,6 +1782,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.DeepLinkInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.InviteText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PassportConfig.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PremiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PromoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.RecentMeUrls.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.Support.html</loc></url>
@@ -1811,9 +1838,11 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.StickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.StickerSetInstallResult.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.Stickers.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.TranscribedAudio.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.TranslatedText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/messages.VotesList.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.BankCardData.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.ExportedInvoice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.PaymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.PaymentReceipt.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/payments.PaymentResult.html</loc></url>
