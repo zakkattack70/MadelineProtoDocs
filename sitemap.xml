@@ -1446,7 +1446,6 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getPaymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getPaymentReceipt.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.getSavedInfo.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.requestRecurringPayment.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.sendPaymentForm.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/payments.validateRequestedInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/phone.acceptCall.html</loc></url>
